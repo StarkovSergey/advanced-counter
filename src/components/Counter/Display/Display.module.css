@@ -1,0 +1,25 @@
+.button-box {
+  display: flex;
+  gap: 10px;
+}
+
+.display {
+  font-size: 25px;
+  padding: 10px;
+  background-color: #e9bb6e;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.error {
+  background-color: tomato;
+}
+
+.max {
+  background-color: tomato;
+}
+
+.error-message {
+  font-size: 16px;
+}
